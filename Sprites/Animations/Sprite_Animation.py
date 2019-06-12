@@ -1,8 +1,5 @@
 import pygame
 
-
-# FIND SOME BETTER BACKGROUNDS FROM REAL RPGS. THINK OF POKEMON FOR EXAMPLE. OR GOLDEN SUN. THOSE KIND OF ROOMS.
-
 # Jeremy
 
 jer_selector = [pygame.image.load("../Sprites/Jer.Down.1.128.png"), pygame.image.load("../Sprites/Jer.Down.2.128.png"),
